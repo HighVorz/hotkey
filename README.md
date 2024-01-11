@@ -1,2 +1,7 @@
 # hotkey
-my favorite hotkey list
+
+#### Vscode hotkey
+| | | |
+|---|---|---|
+|select code between bracket|  alt+a|  Bracket select|
+
