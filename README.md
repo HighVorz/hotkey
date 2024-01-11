@@ -1,5 +1,5 @@
 # hotkey
-A shortcut key commonly used by individuals
+A shortcut key commonly used by myself
 
 #### Vscode hotkey
 | function | hotkey | plugin or vscode custom |
